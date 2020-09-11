@@ -1,1 +1,9 @@
 # AlienInvader
+
+In 'Alien Invasion', the player controls a ship that appears at the bottom centre of the screen. The player can move
+the ship right and left using the arrow keys and shoot bullets using the space bar. When the game begins, a fleet of
+aliens fill the sky and moves across and down the screen. The player shoots and destroys the aliens. If the player
+shoots all the aliens, a new fleet appears that moves faster than the previous fleet. If any alien hits the players
+ship or reaches the bottom of the screen, the player loses a ship. If the player loses three, the game ends.
+
+Quit the game using the 'q' key
